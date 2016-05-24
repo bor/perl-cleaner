@@ -1,0 +1,5 @@
+language: bash
+#notifications:
+#    irc: "chat.freenode.net#gentoo-perl"
+#    on_success: change
+#    on_failure: always
