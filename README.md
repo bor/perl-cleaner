@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gentoo-perl/perl-cleaner.svg)](https://travis-ci.org/gentoo-perl/perl-cleaner)
+
 ### NAME
 
 perl-cleaner - Gentoo user-land tool for cleaning up old perl installs
